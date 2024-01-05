@@ -27,10 +27,12 @@ nav{
     color: #000;
     font-size: 45px;
     font-weight: 800;
+
 }
 nav  > ul{
     display: flex;
     align-items: center;
+    margin: 0 200px ;
 
 }
 nav  li{
@@ -40,4 +42,16 @@ nav  li{
 nav  a{
     text-decoration: none;
     color: #000;
+}
+.header{
+    background-color: #FFF8F3 ;
+}
+.banner{
+    padding: 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    
+}
+   .banner .profile-pic{
+    width: 500px;
 }
