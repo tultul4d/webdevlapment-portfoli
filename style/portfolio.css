@@ -109,5 +109,11 @@ max-width: 1140px;
     justify-content: space-around;
 }
 .about-inf{
-    
+    text-align: center;
+}
+.section-description{
+
+}
+#what-I-do-description{
+    padding: 30px 150px;
 }
